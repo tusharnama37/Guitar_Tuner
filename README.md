@@ -1,1 +1,2 @@
 # Guitar_Tuner
+The objective of this project is to understand the critical parameters that need to be addressed while designing a guitar tuner. The focus of the design lies in developing a suitable algorithm to accurately detect the fundamental frequency of a plucked guitar string from its frequency spectrum. A user-friendly graphical interface is developed using Matlab to allow any user to easily tune his guitar using the developed program.
